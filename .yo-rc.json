@@ -1,0 +1,18 @@
+{
+  "generator-jhipster": {
+    "baseName": "dash",
+    "packageName": "com.pdx.dash",
+    "packageFolder": "com/pdx/dash",
+    "authenticationType": "cookie",
+    "clusteredHttpSession": "hazelcast",
+    "websocket": "no",
+    "databaseType": "nosql",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "useCompass": false,
+    "buildTool": "gradle",
+    "frontendBuilder": "grunt",
+    "javaVersion": "7",
+    "hibernateCache": "no"
+  }
+}
